@@ -11,11 +11,9 @@ const Acordion = () => {
             <span className="text-gray-custom font-bold text-lg md:text-2xl">
               Our <span className="text-red-custom">Values</span>
             </span>
-            <img
-              src="/src/svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
-              className="w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180"
-              alt="expand icon"
-            />
+            <span className="material-symbols-outlined  w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180">
+              expand_more
+            </span>
           </div>
 
           <div className="flex flex-col md:flex-row gap-9 invisible h-auto max-h-0 items-center opacity-0 transition-all group-focus:visible group-focus:max-h-screen group-focus:opacity-100 group-focus:duration-1000">
@@ -45,19 +43,18 @@ const Acordion = () => {
             <span className="text-gray-custom font-bold text-lg md:text-2xl">
               Our <span className="text-red-custom"> Commitment</span>
             </span>
-            <img
-              // src="/src/svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
-              src="https://s3-alpha-sig.figma.com/img/205f/970d/ffd96e54c7dc6543767fbddd3292a154?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PFBeJrcTrAGSP-rg7TfH2WLLXBbWq8qdFVHxi88o~u78U754KKP2bc1nPOOq8cSJsfsurqzepvCd~ymfP0FnQbBLg7-9VNoTtrsujER9HrblnCE7mPzLG5aphFiIlWLZDxA5jk~G1Dv3skFegFvxatkcO1QVkh2GRQHay2zuly5O2wwnuMeRPetGSz2PryhaPn1jeE20bBpxQKAkx2CtwVWgV44XafFUCUPS01RnYiqx4TxTZv25mJGxE8ufr9WEeMlNtrC0u3Y6P18NNAycg1v-CkgvkTgiAHDKYC4NkkSQS0nNI8iXg9VsRhHPh~P3sX6lmfYTONLKAh6UpvQRSg__"
-              className="w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180"
-              alt="expand icon"
-            />
+
+            <span className="material-symbols-outlined  w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180">
+              expand_more
+            </span>
           </div>
 
           <div className="flex flex-col md:flex-row gap-9 invisible h-auto max-h-0 items-center opacity-0 transition-all group-focus:visible group-focus:max-h-screen group-focus:opacity-100 group-focus:duration-1000 w-full">
             <div className="bg-gray-D9D9D9 w-40 h-40 md:w-40  md:h-36 flex items-center justify-center rounded-full overflow-hidden">
               <img
                 className="w-24 h-24 object-cover"
-                src="/src/img/ffd96e54c7dc6543767fbddd3292a154.png"
+                // src="/src/img/ffd96e54c7dc6543767fbddd3292a154.png"
+                src="https://s3-alpha-sig.figma.com/img/205f/970d/ffd96e54c7dc6543767fbddd3292a154?Expires=1709510400&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=PFBeJrcTrAGSP-rg7TfH2WLLXBbWq8qdFVHxi88o~u78U754KKP2bc1nPOOq8cSJsfsurqzepvCd~ymfP0FnQbBLg7-9VNoTtrsujER9HrblnCE7mPzLG5aphFiIlWLZDxA5jk~G1Dv3skFegFvxatkcO1QVkh2GRQHay2zuly5O2wwnuMeRPetGSz2PryhaPn1jeE20bBpxQKAkx2CtwVWgV44XafFUCUPS01RnYiqx4TxTZv25mJGxE8ufr9WEeMlNtrC0u3Y6P18NNAycg1v-CkgvkTgiAHDKYC4NkkSQS0nNI8iXg9VsRhHPh~P3sX6lmfYTONLKAh6UpvQRSg__"
                 alt="user image"
               />
             </div>
@@ -78,11 +75,9 @@ const Acordion = () => {
             <span className="text-gray-custom font-bold text-lg md:text-2xl">
               About <span className="text-red-custom"> Me</span>
             </span>
-            <img
-              src="/src/svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
-              className="w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180"
-              alt="expand icon"
-            />
+            <span className="material-symbols-outlined  w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180">
+              expand_more
+            </span>
           </div>
 
           <div className="flex flex-col md:flex-row gap-9 invisible h-auto max-h-0 items-center opacity-0 transition-all group-focus:visible group-focus:max-h-screen group-focus:opacity-100 group-focus:duration-1000 w-full">
