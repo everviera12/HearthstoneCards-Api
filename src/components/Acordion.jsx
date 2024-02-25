@@ -12,7 +12,7 @@ const Acordion = () => {
               Our <span className="text-red-custom">Values</span>
             </span>
             <img
-              src="../../svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
+              src="/src/svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
               className="w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180"
               alt="expand icon"
             />
@@ -22,7 +22,7 @@ const Acordion = () => {
             <div className="bg-gray-D9D9D9 w-40 h-40 md:w-36  md:h-36 flex items-center justify-center rounded-full overflow-hidden">
               <img
                 className="w-24 h-24 object-cover"
-                src="../../img/3a1130c99a8f060fcc1557cd2e79e446.png"
+                src="/src/img/3a1130c99a8f060fcc1557cd2e79e446.png"
                 alt="user image"
               />
             </div>
@@ -45,7 +45,7 @@ const Acordion = () => {
               Our <span className="text-red-custom"> Commitment</span>
             </span>
             <img
-              src="../../svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
+              src="/src/svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
               className="w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180"
               alt="expand icon"
             />
@@ -55,7 +55,7 @@ const Acordion = () => {
             <div className="bg-gray-D9D9D9 w-40 h-40 md:w-40  md:h-36 flex items-center justify-center rounded-full overflow-hidden">
               <img
                 className="w-24 h-24 object-cover"
-                src="../../img/ffd96e54c7dc6543767fbddd3292a154.png"
+                src="/src/img/ffd96e54c7dc6543767fbddd3292a154.png"
                 alt="user image"
               />
             </div>
@@ -77,7 +77,7 @@ const Acordion = () => {
               About <span className="text-red-custom"> Me</span>
             </span>
             <img
-              src="../../svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
+              src="/src/svg/expand_more_FILL0_wght400_GRAD0_opsz24.svg"
               className="w-5 md:w-7 transition-all duration-500 group-focus:-rotate-180"
               alt="expand icon"
             />
